@@ -8,5 +8,6 @@ namespace ConsoleApp1
 {
     internal class ClassFromJonathan
     {
+        public int AjAj { get; set; }
     }
 }
