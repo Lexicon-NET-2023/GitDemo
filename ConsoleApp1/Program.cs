@@ -10,6 +10,8 @@
 
             Console.WriteLine("From Dimitris branch");
             Console.WriteLine("From Dimitris branch2");
+
+            Console.WriteLine("commit");
         }
     }
 }
